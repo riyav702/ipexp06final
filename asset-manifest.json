@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ipexp06final/static/css/main.a7fbadb7.css",
+    "main.js": "/ipexp06final/static/js/main.fc561739.js",
+    "index.html": "/ipexp06final/index.html",
+    "main.a7fbadb7.css.map": "/ipexp06final/static/css/main.a7fbadb7.css.map",
+    "main.fc561739.js.map": "/ipexp06final/static/js/main.fc561739.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7fbadb7.css",
+    "static/js/main.fc561739.js"
+  ]
+}
