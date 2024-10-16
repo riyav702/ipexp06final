@@ -1,0 +1,18 @@
+/* src/App.css */
+.navbar {
+    background-color: black; /* Navbar background color */
+    padding: 10px;
+    display: flex;
+    justify-content: space-around; /* Space items evenly */
+  }
+  
+  .navbar a {
+    color: white; /* Link color */
+    text-decoration: none; /* Remove underline */
+    padding: 10px;
+  }
+  
+  .navbar a:hover {
+    background-color: rgba(255, 255, 255, 0.2); /* Hover effect */
+  }
+  

@@ -1,0 +1,14 @@
+nav ul {
+    list-style-type: none; /* Removes bullet points */
+    padding: 0; /* Removes default padding */
+  }
+  
+  nav ul li {
+    cursor: pointer; /* Changes the mouse pointer to a hand icon on hover */
+    margin: 5px 0; /* Adds some space between items */
+  }
+  
+  nav ul li:hover {
+    text-decoration: underline; /* Underlines the text on hover */
+  }
+  

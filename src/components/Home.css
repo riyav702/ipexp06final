@@ -1,0 +1,27 @@
+/* src/components/Home.css */
+.home-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .image-container {
+    position: relative; /* Allows the text overlay to be positioned */
+    max-width: 100%; /* Adjust based on your layout */
+    overflow: hidden; /* Prevents overflow */
+  }
+  
+  .college-image {
+    width: 100%; /* Makes the image responsive */
+    height: auto; /* Maintains aspect ratio */
+  }
+  
+  .text-overlay {
+    position: absolute; /* Positions text over the image */
+    top: 50%; /* Centering the text vertically */
+    left: 50%; /* Centering the text horizontally */
+    transform: translate(-50%, -50%); /* Offsets the text to center it */
+    color: white; /* Text color */
+    background-color: rgba(0, 0, 0, 0.5); /* Optional background for readability */
+    padding: 10px; /* Padding around the text */
+  }
+  
